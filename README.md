@@ -1,0 +1,2 @@
+# Mysql
+🍹 Mysql learning record
